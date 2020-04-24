@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="check_info">Check Amount</string>
+    <string name="round_info">Round up to nearest $</string>
+    <string name="tip">+Tip</string>
+    <string name="total">Total</string>
+    <string name="pay">Pay</string>
+    <string name="negative">Thumb down</string>
+    <string name="neutral">Thumbs up and down</string>
+    <string name="positive">Thumb up</string>
+    <string name="zero">0</string>
+    <string name="dollar">Dollar</string>
+    <string name="amount">Amount</string>
+
+</resources>
